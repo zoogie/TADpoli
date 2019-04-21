@@ -26,6 +26,8 @@ You can modify saves and even downgrade same titles to different versions, howev
 
 # Greets
 * **booto** for [sav-adjust](https://github.com/booto/dsi/tree/master/save_adjust) (most of TADpoli is based on it) 
+* **neimod** for [taddy](https://github.com/booto/dsi/tree/master/taddy) (sav-adjust above imports significant code from this). Also, it's likely that the public dev.kp from dsibrew.org used here as a default cert, is his.
+Check cert.c for more info.
 * **caitsith2** for the special TMD/srl crypto DSi TADs use (get_contentkey func) [dsi_srl_extract](https://github.com/einstein95/dsi_srl_extract)
 
 # Libraries used
