@@ -21,7 +21,7 @@ Check that repo for directions.
 * The DSi is surprisingly less permissive than the 3ds when dealing with modified export (TAD) files. You can't inject random titles into different titles, for instance. You also can't inject to system titles.<br>
 You can modify saves and even downgrade same titles to different versions, however.
 * You need a decrypted dev.kp from YOUR console to import modified TADs, UNLESS, you are on firmware 1.4.1 or less, OR have a downgraded DSi system settings app (to whatever version 1.4.1 firm uses or less).
-* It is not currently possible to obtain your dev.kp unless your system is already hacked (or hardmodded).
+* ~~It is not currently possible to obtain your dev.kp unless your system is already hacked (or hardmodded).~~ Update 5/2020: it should now be possible to hack any system and dump the dev.kp. This is due to shutterbug2000's Memory Pit exploit, installation details [here](https://dsi.cfw.guide/). The location of dev.kp is nand:/sys/dev.kp. See the guide for details on dumping and decrypting the dsi nand (tech support: read next bullet point).
 * Tech support questions will likely be ignored. There are many forums and discords out there that can provide that service.
 
 # Greets
